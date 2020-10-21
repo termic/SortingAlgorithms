@@ -6,7 +6,7 @@ import com.teashurov.algo.sort.SelectionSort;
 
 public class Main {
     public static void main(String[] args) {
-                        new  BubbleSo
+                        new  BubbleSort().sort();
 
         new InsertionSort().sort();
     }
